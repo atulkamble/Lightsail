@@ -1,4 +1,4 @@
-# AWS Lightsail — Short Notes
+# AWS Lightsail 
 
 ## Points to Remember
 
